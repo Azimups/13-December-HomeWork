@@ -1,0 +1,16 @@
+.side-bar{
+    width:0px;
+    height: 600px;
+    background-color: grey;
+    transition: all 0.5s;
+    i{
+        font-size: 50px;
+        padding: 30px;
+    }
+    button{
+        transition: all 0.5s;
+    }
+    a{
+        z-index: 222;
+    }
+}

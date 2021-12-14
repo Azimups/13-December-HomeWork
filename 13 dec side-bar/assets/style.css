@@ -1,0 +1,22 @@
+.side-bar {
+  width: 0px;
+  height: 600px;
+  background-color: grey;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.side-bar i {
+  font-size: 50px;
+  padding: 30px;
+}
+
+.side-bar button {
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+.side-bar a {
+  z-index: 222;
+}
+/*# sourceMappingURL=style.css.map */
